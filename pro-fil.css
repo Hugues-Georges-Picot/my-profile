@@ -1,0 +1,162 @@
+h1
+{
+	text-align: center;
+	color: white;
+}
+body
+{
+	width: 100%;
+	background-color: black;
+	margin: 0 auto;
+}
+header
+{
+	width: 100%;
+	height: 300px;
+}
+.pp
+{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	border-radius:100px;
+}
+.divpp
+{
+	width: 33%;
+}
+.coordonnées
+{
+	width: 33%
+	margin: auto;
+}
+h2
+{
+	color: white;
+	font-family: 'Squada One', cursive;
+	text-align: center;
+	padding: 20px;
+}
+.top
+{
+	width: 100%
+	height:300px;
+}
+.list_icone
+{
+	list-style: none;
+	padding-left: 0px;
+}
+.list_icone li
+{
+	display: inline
+}
+.list_icone i
+{
+	font-size: 30px;
+	padding: 30px;
+}
+p
+{
+	color: white;
+	font-size: 20px;
+}
+.photo
+{
+	width: 100%;
+	height: 300px;
+	background-image: url(images/Header-novart.jpg);
+	background-position: top;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.list_photo
+{
+	list-style: none;
+	text-align: center;
+	color: white;
+}
+.conteneur
+{
+	width: 100%;
+	height: 200px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.reseaux
+{
+	width: 33%;
+	align-items: center;
+}
+.mix
+{
+	width: 100%;
+	height: 300px;
+	background-image: url(images/FEMA-13133-Photograph-by-Bill-Koplitz-taken-on-03-07-2005-in-District-of-Columbia.jpg);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.A2
+{
+	width: 100%;
+	height: 300px;
+	background-image: url(images/Monster-821-Stealth-MY19-05-Gallery-1920x1080.jpg);
+	background-position: center;
+}
+.text_moto
+{
+	text-align: center;
+}
+.hobbies
+{
+	display: flex;
+	flex-direction: column;
+}
+.novart
+{
+	display: block;
+	width: 500px;
+	height: 200px;
+	
+}
+.formulaire
+{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 230px;
+	justify-content: space-around;
+}
+button
+{
+	width: 150px;
+	height: 35px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin: 0 auto;
+	text-align: center;
+}
+button:hover
+{
+	background-color: rgb(85,26,139);
+	border: 1px solid black;
+}
+.btn
+{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	margin: 0 auto;
+}
+input
+{
+	width: 200px;
+	height: 35px;
+	display: flex;
+	margin: 0 auto;
+}
+
